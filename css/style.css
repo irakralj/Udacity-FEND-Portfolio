@@ -1,0 +1,159 @@
+body {
+  background-color: #fffcef;
+}
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #393939;
+}
+
+.navbar li a, .navbar .navbar-brand {
+  color: #f69679 !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #393939 !important;
+  background-color: #f69679 !important;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  color: #f69679 !important;
+}
+
+.container-fluid {
+  color: #f69679;
+}
+
+header {
+  padding-top: 50px;
+}
+
+.header-bg {
+  background-color: #fffcef;
+  position: relative;
+  text-align: center;
+}
+
+.main {
+  max-width: 95%;
+  max-height: 95%
+}
+
+h1 {
+  color: #ff7f5b;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  color: #a89334;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 25px;
+  text-align: center;
+}
+
+.about-bg {
+  background-color: #f69679;
+  color: #d2ebcd;
+  padding: 50px 30px 50px;
+}
+
+.main-picture{
+  max-width: 100%;
+  opacity: 0.7;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-size: 30px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.work-bg {
+  background-color: #393939;
+  color: #f69679;
+  padding: 50px 30px 50px;
+}
+
+.thumbnail {
+  padding: 0 0 15px 0;
+  border-radius: 0;
+  border-color: #f69679;
+}
+
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 10px;
+  opacity: 0.5;
+}
+
+a {
+  min-width: 48px;
+  min-height: 48px;
+  color: #f69679;
+  font-family: "Open Sans", sans-serif;
+}
+
+a:visited {
+  color: #f69679;
+}
+
+a:hover {
+  color: #d2ebcd;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.skills-bg {
+  text-align: left;
+  background-color: #fffcef;
+  padding: 50px 30px 50px;
+}
+
+.skills {
+  margin-left: 10px;
+  text-align: center;
+}
+
+.progress {
+  margin: 10px;
+  max-width: 400px;
+}
+
+.progress-bar {
+  background-color: #a89334;
+}
+
+.html-bar {
+  width: 70%;
+}
+
+.css-bar {
+  width: 50%;
+}
+
+.js-bar {
+  width: 30%;
+}
+
+.contact-bg {
+  background-color: #fffcef;
+  color: #393939;
+  padding: 50px 30px 50px;
+}
+
+.glyphicon {
+  color: #393939;
+}
+
+.footer-bg {
+  background-color: #d2ebcd;
+  padding: 20px 5px 10px;
+  color: #393939;
+}
